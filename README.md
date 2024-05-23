@@ -1,3 +1,5 @@
+A Google Chrome extension that searches for Global War Party in text and replaces it with boo.
+
 ## Installation Instructions
 
 Follow these steps to install the extension in development mode:
@@ -22,5 +24,5 @@ Follow these steps to install the extension in development mode:
 ## Example
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kala13x/bua/main/example.png" alt="Example Screenshot" width="600">
+  <img src="https://github.com/kala13x/bua/blob/main/example.png" alt="Example Screenshot" width="600">
 </p>
